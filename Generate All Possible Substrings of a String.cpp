@@ -80,7 +80,6 @@ abcd
 b
 bc
 bcd
-c
 cd
 d
 
